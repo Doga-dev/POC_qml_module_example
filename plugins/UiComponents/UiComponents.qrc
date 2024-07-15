@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>components/ConfigurationScreenPanel.qml</file>
+        <file>components/UiButton.qml</file>
+        <file>components/UiText.qml</file>
+        <file>qmldir</file>
+        <file>components/CmpSlider.qml</file>
+    </qresource>
+</RCC>

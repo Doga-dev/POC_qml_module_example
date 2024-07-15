@@ -1,0 +1,8 @@
+module UiComponents
+plugin UiComponents
+
+CmpSlider                1.0 components/CmpSlider.qml
+ConfigurationScreenPanel 1.0 components/ConfigurationScreenPanel.qml
+UiButton                 1.0 components/UiButton.qml
+UiText                   1.0 components/UiText.qml
+
